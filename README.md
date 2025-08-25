@@ -1,3 +1,5 @@
+NOTE:its a 3D interface you can interact using your mouse/cursor and rotate too.
+
 # Three.js Textures Demo
 
 A comprehensive Three.js demonstration showcasing Physically Based Rendering (PBR) materials with interactive controls. This project features multiple texture sets with full PBR material maps that can be adjusted in real-time.
